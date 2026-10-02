@@ -42,28 +42,6 @@ This program loads student and course information from a text file and allows us
 - `OutputHandler.cpp / OutputHandler.h` - Exports student reports to a text file
 - `student_data.txt` - Stores sample student and course information
 
-## How to Run
-
-### Visual Studio
-
-1. Open the Visual Studio solution file.
-2. Build the project.
-3. Make sure `student_data.txt` is located in the program's working directory.
-4. Run the program.
-5. Select an option from the menu.
-
-### Program Input
-
-The program reads student information from `student_data.txt`. Each record includes the student's ID, name, tuition status, courses, units, and grades.
-
-## My Contributions
-
-This was a team project. My contributions included:
-
-- [Describe the components or features you personally implemented.]
-- [Describe any debugging, testing, or documentation work you completed.]
-- [Describe how you collaborated with the team.]
-
 ## Team Project
 
 This project was completed collaboratively as part of a C++ programming course.
